@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ksyafiqq
+- 👋 Hola Amigo, I’m @ksyafiqq
 - 👀 I’m interested in PHP Programming, R Programming for Data Analytics and Visualization, Back-End Programming for WordPress and WooCommerce
 - 🌱 I’m currently learning customization on eCommerce platform such as WooCommerce, Adobe Commerce and Shopify. 
 - 💞️ I’m looking to collaborate on web development, Android development using Android Studio, data analytics and visualization using R programming.
