@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Khairul Syafiq Mustafa</h1>
 <h3 align="center">Data Scientist</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksyafiqq&label=Profile%20views&color=0e75b6&style=flat" alt="ksyafiqq" /> </p>
+
+- 👨‍💼 Former Software Developer with 2 years experience.
 
 - 🔭 I’m currently working on **Automated Data Pipeline & Prediction on Used Car Price in Malaysia using Random Forest**
 
