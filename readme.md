@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksyafiqq&label=Profile%20views&color=0e75b6&style=flat" alt="ksyafiqq" /> </p>
 
-- 👨‍💼 Former Software Developer with 2 years experience.
+- 👨‍💼 Data Engineer | Former Software Developer with 2+ years of professional experience.
 
-- 🔭 I’m currently working on **Automated Data Pipeline & Prediction on Used Car Price in Malaysia using Random Forest**
+- 👯 I’m looking to collaborate on KNIME Workflows, Data Governance, and Open Data Initiatives.
 
-- 👯 I’m looking to collaborate on **Data Science, Open Source Tools**
-
-- 💬 Ask me about **Data Analytics, Software/ Web development**
+- 💬 Ask me about Data Engineering (Python to KNIME), ETL Pipelines, and Data Analytics.
 
 - 📫 How to reach me **muhammadkhairulsyafiq@gmail.com**
 
